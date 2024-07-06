@@ -1,0 +1,19 @@
+Understanding units
+- px
+- % = according to parent depend krta hai
+- vw, vh: vw stands for 'viewport width' and vh stands for 'viewport height' = according to screensize depend krta hai
+vw and vh ka eik drawback: eik waqt pe jaakr ye bht zaada hi chota krdeta hai that's why now we learn vmax and vmin 
+- vmax, vmin = vmax means 'jo bhi viewport maximum hai' and vmin means 'jo bhi viewport minimum hai'
+Aksar media queries likhte waqt bht saare elements ko eik saath chota krna hota hai jo kaafi mushkil hojaata hai uske liye aata hai em and rem
+- em, rem = em means 'parent ke font-size pr dependent' and rem means 'root element ke font-size pr dependent' which is approximately 16px so 1 rem = 16px.
+
+Layout of website
+- absolute vs flex?
+
+Flexbox
+- Display flex
+- aligining items in x and y axis
+- flex direction
+- flex wrap
+
+CSS Media Queries
